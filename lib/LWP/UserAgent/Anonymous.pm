@@ -1,6 +1,6 @@
 package LWP::UserAgent::Anonymous;
 
-$LWP::UserAgent::Anonymous::VERSION = '0.07';
+$LWP::UserAgent::Anonymous::VERSION = '0.08';
 
 =head1 NAME
 
@@ -8,11 +8,11 @@ LWP::UserAgent::Anonymous - Interface to anonymous LWP::UserAgent.
 
 =head1 VERSION
 
-Version 0.07
+Version 0.08
 
 =cut
 
-use warnings; use strict;
+use strict; use warnings;
 
 use 5.006;
 use Clone;
@@ -199,7 +199,7 @@ L<http://search.cpan.org/dist/LWP-UserAgent-Anonymous/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright (C) 2011 - 2014 Mohammad S Anwar.
+Copyright (C) 2011 - 2015 Mohammad S Anwar.
 
 This  program  is  free software; you can redistribute it and/or modify it under
 the  terms  of the the Artistic License (2.0). You may obtain a copy of the full

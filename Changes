@@ -1,5 +1,10 @@
 Revision history for LWP-UserAgent-Anonymous
 
+0.08  Sat Jan 17 09:45:00 2015
+      - Removed SIGNATURE file.
+      - Updated MANIFEST.SKIP file to ignore folder 'eumm/'.
+      - Updated Copyright year information.
+
 0.07  Tue Sep 16 00:23:01 2014
       - Added proxy checking.
       - Added HTTP::Request as pre-requisite to Makefile.PL file.
