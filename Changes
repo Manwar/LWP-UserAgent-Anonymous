@@ -1,5 +1,8 @@
 Revision history for LWP-UserAgent-Anonymous
 
+0.09  Fri Oct 09 12:00:00 2015
+      - Added LICENSE file.
+
 0.08  Sat Jan 17 09:45:00 2015
       - Removed SIGNATURE file.
       - Updated MANIFEST.SKIP file to ignore folder 'eumm/'.

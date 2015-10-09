@@ -1,6 +1,6 @@
 package LWP::UserAgent::Anonymous;
 
-$LWP::UserAgent::Anonymous::VERSION = '0.08';
+$LWP::UserAgent::Anonymous::VERSION = '0.09';
 
 =head1 NAME
 
@@ -8,7 +8,7 @@ LWP::UserAgent::Anonymous - Interface to anonymous LWP::UserAgent.
 
 =head1 VERSION
 
-Version 0.08
+Version 0.09
 
 =cut
 
